@@ -1,8 +1,24 @@
-title: On my way,
+<<<<<<< HEAD
+<<<<<<< HEAD
+title: The way I follow my heart
 description: My Personal Learning Notes
 author: 王 英珍
 github: https://github.com/wangyz666
 about: 生信小鲜肉 娱乐老司机
+=======
+title: The Way I Follow My Heart
+description: My Personal Learning Notes
+author: 王 英珍
+github: https://github.com/wangyz666
+about: 生信小鲜肉，娱乐老司机
+>>>>>>> origin/master
+=======
+title: The Way I Follow My Heart
+description: My Personal Learning Notes
+author: 王 英珍
+github: https://github.com/wangyz666
+about: 生信小鲜肉，娱乐老司机
+>>>>>>> origin/master
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg

@@ -12,4 +12,4 @@ permalink: /about/
 ----------
 *QQ*:296085360  
 *E-mail*:wangyz666@outlool.com  
-*Github*: https://github.com/wangyz666
+*Github*: https://github.com/wangyz666  
