@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+###南京农业大学在读硕士，生物信息初级玩家，懂点perl和R。
 
-email: agus[at]python.web.id
+
+###*Welcome to contact me!* 
+
+----------
+*QQ*:296085360  
+*E-mail*:wangyz666@outlool.com  
+*Github*: https://github.com/wangyz666
