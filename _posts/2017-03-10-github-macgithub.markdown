@@ -1,14 +1,14 @@
 
 ---
-layout: post
-title:  "Setup Django in apache2 Raspberry Pi"
-date:   2016-04-20 22:32:34 +0700
-categories: [django, raspberry]
+layout: post  
+title:  "如何在mac上更换github账户"  
+date:   2017-03-10 22:32:34 +0700  
+
 ---
 
+`github`
 
-### mac 上更换github账户
-------
+
 对于刚刚接触github的人，想要更改mac中配置的账户是一件让人挺头疼的事。  
 其实更改账户很简单，只需要按照以下步骤进行：
 1. 生成新账户的ssh key
@@ -43,9 +43,7 @@ categories: [django, raspberry]
 
 		ssh git@github.com
 		
-###*Contact*：   
--------------------------------- 
+-------------
 *Author*: 王英珍   
 *qq*: 296085360  
-*email*:  wangyz666@outlook.com  
-*Blog*: [https://wangyz666.github.io](https://wangyz666.github.io)
+*email*:wangyz666@outlook.com  
