@@ -1,11 +1,11 @@
-title: The way I follow my heart 
-description: My Personal learing notes
-author: 王 英珍
-github: https://github.com/wangyz666
-about: 生信小鲜肉
+title: Stack Problems
+description: My Personal Stack Problems
+author: Agus Makmun
+github: https://github.com/agusmakmun
+about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/snp.png
+avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -17,19 +17,19 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://wangyz666.github.io"
+      link: "#"
     - icon: fa-twitter
-      link: "https://wangyz666.github.io"
+      link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
-      link: "https://wangyz666.github.io"
+      link: "https://www.linkedin.com/in/summonagus"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/wangyz666”
+      link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: wangyz666
-  fb_appid: ###
+  twitter_username: agusmakmun6
+  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://wangyz666.github.io"
+url: "https://agusmakmun.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
