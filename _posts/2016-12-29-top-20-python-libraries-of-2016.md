@@ -4,14 +4,13 @@ title:  "Top 10 Python libraries of 2016"
 date:   2016-12-29 18:34:10 +0700
 categories: [python, django]
 ---
-jhgjghjkkhjkjjjkllk;klk;
 Last year, we did a recap with what we thought were the [best Python libraries of 2015](https://tryolabs.com/blog/2015/12/15/top-10-python-libraries-of-2015/), which was widely shared within the Python community (see post in[r/Python](https://www.reddit.com/r/Python/comments/3wyiuv/top_10_python_libraries_of_2015/)). A year has gone by, and again it is time to give due credit for the awesome work that has been done by the **open source community** this year.
 
 Again, we try to avoid most established choices such as Django, Flask, etc. that are kind of standard nowadays. Also, some of these libraries date prior to 2016, but either they had an explosion in popularity this year or we think they are great enough to deserve the spot. Here we go!
 
 ## 1. [Zappa](https://www.zappa.io/)
 
-Since the release of [AWS Lambda](https://aws.amazon.com/lambda/details/) (and [others](https://cloud.google.com/functions/docs/) that [have](https://azure.microsoft.com/en-us/services/functions/) [followed](https://www.ibm.com/cloud-computing/bluemix/openwhisk)), all the rage has been about [serverless architectures](http://martinfowler.com/articles/serverless.html). These allow microservices to be deployed in the cloud, in a fully managed environment where one doesn’t have to care about managing any server, but is assigned stateless, ephemeral _computing containers_ that are fully managed by a provider. With this paradigm, events (such as a traffic spike) can trigger the execution of more of these _containers_ and therefore give the possibility to handle “infinite” horizontal scaling.
+sdasdasdasdsaasasSince the release of [AWS Lambda](https://aws.amazon.com/lambda/details/) (and [others](https://cloud.google.com/functions/docs/) that [have](https://azure.microsoft.com/en-us/services/functions/) [followed](https://www.ibm.com/cloud-computing/bluemix/openwhisk)), all the rage has been about [serverless architectures](http://martinfowler.com/articles/serverless.html). These allow microservices to be deployed in the cloud, in a fully managed environment where one doesn’t have to care about managing any server, but is assigned stateless, ephemeral _computing containers_ that are fully managed by a provider. With this paradigm, events (such as a traffic spike) can trigger the execution of more of these _containers_ and therefore give the possibility to handle “infinite” horizontal scaling.
 
 Zappa is **the serverless framework for Python**, although (at least for the moment) it only has support for AWS Lambda and AWS API Gateway. It makes building so-architectured apps very simple, freeing you from most of the tedious setup you would have to do through the AWS Console or API, and has all sort of commands to ease deployment and managing different environments.
 
