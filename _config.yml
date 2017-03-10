@@ -16,8 +16,8 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    - icon: fa-qq
+      link: "http://user.qzone.qq.com/296085360/"
     - icon: fa-twitter
       link: "https://twitter.com/"
     - icon: fa-linkedin
