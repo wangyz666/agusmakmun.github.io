@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parsing JSON with Ruby"
-date:   2013-12-23 00:18:23 +0700
+date:   2017-03-23 00:18:23 +0700
 categories: [ruby]
 ---
 我在github上的第一篇博客
