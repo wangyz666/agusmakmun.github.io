@@ -1,11 +1,11 @@
 title: 文章列表
 description: My Personal learning notes
 author: 王 英珍
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+github: https://github.com/wangyz666
+about: 生信小鲜肉
+disqus_shortname: learningnotes
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/snp.png
 
 enableTags: true
 tagarray: []
