@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Parsing JSON with Ruby"
-date:   2017-03-23 00:18:23 +0700
-categories: [ruby]
+title:  "Setup Django in apache2 Raspberry Pi"
+date:   2016-04-20 22:32:34 +0700
+categories: [django, raspberry]
 ---
 我在github上的第一篇博客
-================
+---
 ********
 
 ###Author： 王英珍
