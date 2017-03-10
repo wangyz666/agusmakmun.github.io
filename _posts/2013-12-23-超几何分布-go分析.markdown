@@ -5,17 +5,14 @@ date:   2017-03-08 00:18:23 +0700
 
 ---
 
-
-
-
 `超几何分布` `GO分析`
 
-**1.超几何分布**
+**超几何分布**
 
 	超几何分布是统计学上一种离散概率分布。它描述了由有限个物件中抽出n个物件，成功抽出指定种类的物件的次数(不归还)。称为超几何分布，是因为其形式与“超几何函数”的级数展式的系数有关。  
 ![公式](http://s9.sinaimg.cn/large/002iWAXLzy79bAV923Kf8&amp;690)
 
-**2.GO富集分析**  
+**GO富集分析**  
 Gene Ontology 可分为分子功能(molecular fuction)，生物过程(biological process)和细胞组成(cellular component)个部分。
 GO功能分类是在某一功能层次上统计蛋白或者基因的数目或组成，往往是在GO的第二层次。此外也有研究都挑选一些Term，而后统计直接对应到该Term的基因或蛋白数。结果一般以柱状图或者饼图表示。
 	
@@ -31,10 +28,7 @@ GO功能分类是在某一功能层次上统计蛋白或者基因的数目或组
 
 以上纯属个人理解，如有不妥，欢迎讨论。
 
-
-
-*Contact*  
+-------------
 *Author*: 王英珍   
 *qq*: 296085360  
-*email*:  wangyz666@outlook.com  
-*Blog*: [https://wangyz666.github.io](https://wangyz666.github.io)
+*email*:wangyz666@outlook.com  
