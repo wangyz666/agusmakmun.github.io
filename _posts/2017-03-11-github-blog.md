@@ -40,7 +40,7 @@ ok,enjoy yourself!
 
 **修改个性域名**  
 去网上购买一个域名，解析一下，我买的top后缀的域名，第一年只需要5块钱。  
-![tupian](ym.png)  
+![tupian](/static/img/ym.png)  
 解析域名：在这里我们利用的是CNAME纪录方式，主机记录填www或@，也可以新增一个解析（一个填www，一个填@，这样别人在域名前加不加www都可以进入博客了），记录值就填你的博客地址：XX.github.io
 最后一步，在博客的配置文件主文件夹里添加一个CNAME文件（不要任何后缀），里边写上注册的域名，我的是wangyingzhen.top 不要www也不要http）  
 
